@@ -1,13 +1,15 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://xrman.me)
 <h1 align="center">Hi 👋, I'm Estiak Ahamed Arman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xrman&label=Profile%20views&color=0e75b6&style=flat" alt="xrman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xrman" alt="xrman" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/xrmanme" target="blank"><img src="https://img.shields.io/twitter/follow/xrmanme?logo=twitter&style=for-the-badge" alt="xrmanme" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🔭 I’m currently working on [Studyin](https://studyin.com.au/)
 
