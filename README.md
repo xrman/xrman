@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://xrman.me)
-<h1 align="center">Hi 👋, I'm Estiak Ahamed Arman</h1>
+<h1 align="center">Hi 👋, I'm Istiyak Ahamed Arman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
@@ -11,13 +11,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🔭 I’m currently working on [Studyin](https://studyin.com.au/)
+- 🔭 I’m currently working on [STUYIN PTY LTD](https://studyin.com.au/)
 
 - 🌱 I’m currently learning **TypeScript, React-Native , go**
 
 - 👯 I’m looking to collaborate **with other researchers.**
 
-- 🤝 I’m looking for help with **dev.studyin.com.au**
+- 🤝 I’m looking for help with **studyin.com.au**
 
 - 👨‍💻 All of my projects are available at [xrman.me/](xrman.me/)
 
